@@ -33,4 +33,4 @@ jobs:
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
+          echo ${{github.workspace}}/build/test/Sistema_Huespedes_Maria_Valeria_test --gtest_filter, and deploy your project.
