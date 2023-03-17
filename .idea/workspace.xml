@@ -10,7 +10,16 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated />
+    <generated>
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="Sistema_Huespedes_Maria_Valeria_lib" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="Sistema_Huespedes_Maria_Valeria_test" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="gmock_main" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="gtest" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="Sistema_Huespedes_Maria_Valeria_exe" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="Sistema_Huespedes_Maria_Valeria" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="gmock" />
+      <config projectName="Sistema_Huespedes_Maria_Valeria" targetName="gtest_main" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -19,9 +28,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca6010c-8b4a-483a-9785-5b9d684ab847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Propietario.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Propietario.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -129,7 +140,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678987362383</updated>
       <workItem from="1678987375876" duration="22000" />
-      <workItem from="1679080542693" duration="1873000" />
+      <workItem from="1679080542693" duration="8753000" />
     </task>
     <servers />
   </component>
