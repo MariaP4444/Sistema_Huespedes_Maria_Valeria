@@ -1,0 +1,14 @@
+//
+// Created by Lenovo on 17/03/2023.
+//
+
+#ifndef SISTEMA_HUESPEDES_MARIA_VALERIA_HUESPED_H
+#define SISTEMA_HUESPEDES_MARIA_VALERIA_HUESPED_H
+
+
+class Huesped {
+
+};
+
+
+#endif //SISTEMA_HUESPEDES_MARIA_VALERIA_HUESPED_H

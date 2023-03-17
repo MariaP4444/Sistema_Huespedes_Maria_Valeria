@@ -1,0 +1,14 @@
+//
+// Created by Lenovo on 17/03/2023.
+//
+
+#ifndef SISTEMA_HUESPEDES_MARIA_VALERIA_RESERVA_H
+#define SISTEMA_HUESPEDES_MARIA_VALERIA_RESERVA_H
+
+
+class Reserva {
+
+};
+
+
+#endif //SISTEMA_HUESPEDES_MARIA_VALERIA_RESERVA_H
