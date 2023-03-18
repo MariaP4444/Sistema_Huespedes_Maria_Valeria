@@ -25,6 +25,7 @@ private:
     float puntajeEvaluacion;
 
 public:
+    Propietario()=default;
     string getNombre();
     void setNombre(string nombre);
     string getSexo();
@@ -35,6 +36,8 @@ public:
     void setId(int id);
     float getPuntajeEvaluacion() ;
     void setPuntajeEvaluacion(float puntajeEvaluacion);
+    bool getOcupado();
+    void setOcupado(bool ocupado);
 
 };
 

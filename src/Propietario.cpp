@@ -32,7 +32,7 @@ int Propietario::getId() {
 }
 
 void Propietario::setId(int id) {
-    ID = id;
+    Propietario::ID = id;
 }
 
 float Propietario::getPuntajeEvaluacion(){
@@ -41,4 +41,12 @@ float Propietario::getPuntajeEvaluacion(){
 
 void Propietario::setPuntajeEvaluacion(float puntajeEvaluacion) {
     Propietario::puntajeEvaluacion = puntajeEvaluacion;
+}
+
+bool Propietario::getOocupado() {
+    return ocupado;
+}
+
+void Propietario::setOcupado(bool ocupado) {
+    Propietario::ocupado = ocupado;
 }

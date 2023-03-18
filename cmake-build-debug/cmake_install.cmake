@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria
+# Install script for directory: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,17 +39,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest/cmake_install.cmake")
+  include("C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/src/cmake_install.cmake")
+  include("C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/src/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test/cmake_install.cmake")
+  include("C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -60,5 +60,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

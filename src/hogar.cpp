@@ -3,3 +3,36 @@
 //
 
 #include "hogar.h"
+
+ string hogar::getDireccion() {
+    return direccion;
+}
+
+void hogar::setDireccion(string direccion) {
+    hogar::direccion = direccion;
+}
+
+string hogar::getDesc() {
+    return desc;
+}
+
+void hogar::setDesc( string desc) {
+    hogar::desc = desc;
+}
+
+int hogar::getNumCamas()  {
+    return numCamas;
+}
+
+void hogar::setNumCamas(int numCamas) {
+    hogar::numCamas = numCamas;
+}
+
+bool hogar::bebes()  {
+    return bebes;
+}
+
+void hogar::setBebes(bool bebes) {
+    hogar::bebes = bebes;
+}
+
