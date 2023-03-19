@@ -7,6 +7,8 @@
 
 #include <string>
 #include <iostream>
+#include "Propietario.h"
+#include "Huesped.h"
 
 using std::cout;
 using std::endl;
@@ -16,18 +18,24 @@ using std::getline;
 
 class Reserva {
 private:
-    string fInicio;
-public:
-    const string &getFInicio() const;
+    string fechaIn;
+    string fechaFin;
+    Propietario* pPropietario;
+    Huesped* pHuesped;
 
-    void setFInicio(const string &fInicio);
-
-private:
-    string fFin;
-    Propietario* = pPropietario;
-    Huesped* = pHuesped;
 public:
     Reserva()= default;
+    string getFechaIn();
+    void setFechaIn(string fechaIn);
+
+    string getFechaFin();
+    void setFechaFin(string fechaFin);
+
+    Propietario* getPpropietario();
+    void setPpropietario(Propietario* pPropietario);
+
+    Huesped* getPhuesped();
+    void setPhuesped(Huesped* pHuesped);
 
 
 };
