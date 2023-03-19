@@ -4,6 +4,8 @@
 
 #include "hogar.h"
 
+hogar::hogar(string direccion, string desc, int numCamas, bool bebes):direccion(direccion), desc(desc), numCamas(numCamas), bebes(bebes){}
+
  string hogar::getDireccion() {
     return direccion;
 }

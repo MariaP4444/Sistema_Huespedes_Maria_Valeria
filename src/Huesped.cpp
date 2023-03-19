@@ -4,6 +4,7 @@
 
 #include "Huesped.h"
 
+Huesped::Huesped(string nombreH, string sexoH, string fechaNacimientoH, string hospitalH, string origenH, int IDh, float puntajeEvaluacionH):nombreH(nombreH), sexoH(sexoH), fechaNacimientoH(fechaNacimientoH), hospitalH(hospitalH), origenH(origenH), IDh(IDh), puntajeEvaluacionH(puntajeEvaluacionH){}
 
 string Huesped::getNombre()  {
     return this->nombreH;

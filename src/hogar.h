@@ -24,6 +24,7 @@ private:
 public:
 
     hogar()=default;
+    hogar(string direccion, string desc, int numCamas, bool bebes);
 
     bool getBebes();
 
