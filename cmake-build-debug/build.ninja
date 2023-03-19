@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/
+cmake_ninja_workdir = C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target Sistema_Huespedes_Maria_Valeria
 
@@ -49,73 +49,73 @@ cmake_ninja_workdir = C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Va
 
 build cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria: phony || CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Propietario.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Propietario.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Propietario.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Propietario.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src\Propietario.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Huesped.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Huesped.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Huesped.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Huesped.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src\Huesped.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/hogar.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/hogar.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/hogar.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/hogar.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src\hogar.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Reserva.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Reserva.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Reserva.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Reserva.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src\Reserva.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Evaluacion.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Evaluacion.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/Evaluacion.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Evaluacion.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src\Evaluacion.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/src/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
   TARGET_PDB = Sistema_Huespedes_Maria_Valeria.pdb
 
-build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/test/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
+build CMakeFiles/Sistema_Huespedes_Maria_Valeria.dir/test/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria
   DEP_FILE = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\test\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir
   OBJECT_FILE_DIR = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\test
   TARGET_COMPILE_PDB = CMakeFiles\Sistema_Huespedes_Maria_Valeria.dir\
@@ -145,7 +145,7 @@ build Sistema_Huespedes_Maria_Valeria.exe: CXX_EXECUTABLE_LINKER__Sistema_Huespe
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -156,7 +156,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -174,7 +174,7 @@ build list_install_components: phony
 # Utility command for install
 
 build CMakeFiles/install.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -186,7 +186,7 @@ build install: phony CMakeFiles/install.util
 # Utility command for install/local
 
 build CMakeFiles/install/local.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -198,7 +198,7 @@ build install/local: phony CMakeFiles/install/local.util
 # Utility command for install/strip
 
 build CMakeFiles/install/strip.util: CUSTOM_COMMAND all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -207,7 +207,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt
+# C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt
 # =============================================================================
 
 
@@ -215,7 +215,7 @@ build install/strip: phony CMakeFiles/install/strip.util
 # Utility command for edit_cache
 
 build lib/googleTest/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -226,7 +226,7 @@ build lib/googleTest/edit_cache: phony lib/googleTest/CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build lib/googleTest/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -244,7 +244,7 @@ build lib/googleTest/list_install_components: phony
 # Utility command for install
 
 build lib/googleTest/CMakeFiles/install.util: CUSTOM_COMMAND lib/googleTest/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -256,7 +256,7 @@ build lib/googleTest/install: phony lib/googleTest/CMakeFiles/install.util
 # Utility command for install/local
 
 build lib/googleTest/CMakeFiles/install/local.util: CUSTOM_COMMAND lib/googleTest/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -268,7 +268,7 @@ build lib/googleTest/install/local: phony lib/googleTest/CMakeFiles/install/loca
 # Utility command for install/strip
 
 build lib/googleTest/CMakeFiles/install/strip.util: CUSTOM_COMMAND lib/googleTest/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -277,7 +277,7 @@ build lib/googleTest/install/strip: phony lib/googleTest/CMakeFiles/install/stri
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/CMakeLists.txt
+# C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -289,10 +289,10 @@ build lib/googleTest/install/strip: phony lib/googleTest/CMakeFiles/install/stri
 
 build cmake_object_order_depends_target_gmock: phony || cmake_object_order_depends_target_gtest
 
-build lib/googleTest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: CXX_COMPILER__gmock_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/src/gmock-all.cc || cmake_object_order_depends_target_gmock
+build lib/googleTest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj: CXX_COMPILER__gmock_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/src/gmock-all.cc || cmake_object_order_depends_target_gmock
   DEP_FILE = lib\googleTest\googlemock\CMakeFiles\gmock.dir\src\gmock-all.cc.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/include -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/include -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
   OBJECT_DIR = lib\googleTest\googlemock\CMakeFiles\gmock.dir
   OBJECT_FILE_DIR = lib\googleTest\googlemock\CMakeFiles\gmock.dir\src
   TARGET_COMPILE_PDB = bin\libgmockd.pdb
@@ -324,10 +324,10 @@ build lib/libgmockd.a: CXX_STATIC_LIBRARY_LINKER__gmock_Debug lib/googleTest/goo
 
 build cmake_object_order_depends_target_gmock_main: phony || cmake_object_order_depends_target_gmock cmake_object_order_depends_target_gtest
 
-build lib/googleTest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj: CXX_COMPILER__gmock_main_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/src/gmock_main.cc || cmake_object_order_depends_target_gmock_main
+build lib/googleTest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj: CXX_COMPILER__gmock_main_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/src/gmock_main.cc || cmake_object_order_depends_target_gmock_main
   DEP_FILE = lib\googleTest\googlemock\CMakeFiles\gmock_main.dir\src\gmock_main.cc.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/include -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/include -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
   OBJECT_DIR = lib\googleTest\googlemock\CMakeFiles\gmock_main.dir
   OBJECT_FILE_DIR = lib\googleTest\googlemock\CMakeFiles\gmock_main.dir\src
   TARGET_COMPILE_PDB = bin\libgmock_maind.pdb
@@ -355,7 +355,7 @@ build lib/libgmock_maind.a: CXX_STATIC_LIBRARY_LINKER__gmock_main_Debug lib/goog
 # Utility command for edit_cache
 
 build lib/googleTest/googlemock/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -366,7 +366,7 @@ build lib/googleTest/googlemock/edit_cache: phony lib/googleTest/googlemock/CMak
 # Utility command for rebuild_cache
 
 build lib/googleTest/googlemock/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -384,7 +384,7 @@ build lib/googleTest/googlemock/list_install_components: phony
 # Utility command for install
 
 build lib/googleTest/googlemock/CMakeFiles/install.util: CUSTOM_COMMAND lib/googleTest/googlemock/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -396,7 +396,7 @@ build lib/googleTest/googlemock/install: phony lib/googleTest/googlemock/CMakeFi
 # Utility command for install/local
 
 build lib/googleTest/googlemock/CMakeFiles/install/local.util: CUSTOM_COMMAND lib/googleTest/googlemock/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -408,7 +408,7 @@ build lib/googleTest/googlemock/install/local: phony lib/googleTest/googlemock/C
 # Utility command for install/strip
 
 build lib/googleTest/googlemock/CMakeFiles/install/strip.util: CUSTOM_COMMAND lib/googleTest/googlemock/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googlemock && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -417,7 +417,7 @@ build lib/googleTest/googlemock/install/strip: phony lib/googleTest/googlemock/C
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/CMakeLists.txt
+# C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -429,10 +429,10 @@ build lib/googleTest/googlemock/install/strip: phony lib/googleTest/googlemock/C
 
 build cmake_object_order_depends_target_gtest: phony || lib/googleTest/googletest/CMakeFiles/gtest.dir
 
-build lib/googleTest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj: CXX_COMPILER__gtest_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/src/gtest-all.cc || cmake_object_order_depends_target_gtest
+build lib/googleTest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj: CXX_COMPILER__gtest_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/src/gtest-all.cc || cmake_object_order_depends_target_gtest
   DEP_FILE = lib\googleTest\googletest\CMakeFiles\gtest.dir\src\gtest-all.cc.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
   OBJECT_DIR = lib\googleTest\googletest\CMakeFiles\gtest.dir
   OBJECT_FILE_DIR = lib\googleTest\googletest\CMakeFiles\gtest.dir\src
   TARGET_COMPILE_PDB = bin\libgtestd.pdb
@@ -464,10 +464,10 @@ build lib/libgtestd.a: CXX_STATIC_LIBRARY_LINKER__gtest_Debug lib/googleTest/goo
 
 build cmake_object_order_depends_target_gtest_main: phony || cmake_object_order_depends_target_gtest
 
-build lib/googleTest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj: CXX_COMPILER__gtest_main_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/src/gtest_main.cc || cmake_object_order_depends_target_gtest_main
+build lib/googleTest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj: CXX_COMPILER__gtest_main_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/src/gtest_main.cc || cmake_object_order_depends_target_gtest_main
   DEP_FILE = lib\googleTest\googletest\CMakeFiles\gtest_main.dir\src\gtest_main.cc.obj.d
   FLAGS = -g -fdiagnostics-color=always -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
   OBJECT_DIR = lib\googleTest\googletest\CMakeFiles\gtest_main.dir
   OBJECT_FILE_DIR = lib\googleTest\googletest\CMakeFiles\gtest_main.dir\src
   TARGET_COMPILE_PDB = bin\libgtest_maind.pdb
@@ -495,7 +495,7 @@ build lib/libgtest_maind.a: CXX_STATIC_LIBRARY_LINKER__gtest_main_Debug lib/goog
 # Utility command for edit_cache
 
 build lib/googleTest/googletest/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -506,7 +506,7 @@ build lib/googleTest/googletest/edit_cache: phony lib/googleTest/googletest/CMak
 # Utility command for rebuild_cache
 
 build lib/googleTest/googletest/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -524,7 +524,7 @@ build lib/googleTest/googletest/list_install_components: phony
 # Utility command for install
 
 build lib/googleTest/googletest/CMakeFiles/install.util: CUSTOM_COMMAND lib/googleTest/googletest/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -536,7 +536,7 @@ build lib/googleTest/googletest/install: phony lib/googleTest/googletest/CMakeFi
 # Utility command for install/local
 
 build lib/googleTest/googletest/CMakeFiles/install/local.util: CUSTOM_COMMAND lib/googleTest/googletest/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -548,7 +548,7 @@ build lib/googleTest/googletest/install/local: phony lib/googleTest/googletest/C
 # Utility command for install/strip
 
 build lib/googleTest/googletest/CMakeFiles/install/strip.util: CUSTOM_COMMAND lib/googleTest/googletest/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\lib\googleTest\googletest && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -557,7 +557,7 @@ build lib/googleTest/googletest/install/strip: phony lib/googleTest/googletest/C
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt
+# C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -569,46 +569,46 @@ build lib/googleTest/googletest/install/strip: phony lib/googleTest/googletest/C
 
 build cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib: phony || src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Evaluacion.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Evaluacion.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Evaluacion.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Evaluacion.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Evaluacion.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Sistema_Huespedes_Maria_Valeria_lib.pdb
   TARGET_PDB = src\libSistema_Huespedes_Maria_Valeria_lib.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Huesped.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Huesped.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Huesped.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Huesped.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Huesped.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Sistema_Huespedes_Maria_Valeria_lib.pdb
   TARGET_PDB = src\libSistema_Huespedes_Maria_Valeria_lib.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Propietario.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Propietario.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Propietario.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Propietario.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Propietario.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Sistema_Huespedes_Maria_Valeria_lib.pdb
   TARGET_PDB = src\libSistema_Huespedes_Maria_Valeria_lib.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Reserva.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Reserva.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/Reserva.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Reserva.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Reserva.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Sistema_Huespedes_Maria_Valeria_lib.pdb
   TARGET_PDB = src\libSistema_Huespedes_Maria_Valeria_lib.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/hogar.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/hogar.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_lib.dir/hogar.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_lib_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/hogar.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\hogar.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_lib.dir\Sistema_Huespedes_Maria_Valeria_lib.pdb
@@ -640,55 +640,55 @@ build src/libSistema_Huespedes_Maria_Valeria_lib.a: CXX_STATIC_LIBRARY_LINKER__S
 
 build cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe: phony || src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Evaluacion.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Evaluacion.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Evaluacion.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Evaluacion.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\Evaluacion.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\
   TARGET_PDB = src\Sistema_Huespedes_Maria_Valeria_exe.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Huesped.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Huesped.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Huesped.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Huesped.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\Huesped.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\
   TARGET_PDB = src\Sistema_Huespedes_Maria_Valeria_exe.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Propietario.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Propietario.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Propietario.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Propietario.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\Propietario.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\
   TARGET_PDB = src\Sistema_Huespedes_Maria_Valeria_exe.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Reserva.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/Reserva.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/Reserva.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/Reserva.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\Reserva.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\
   TARGET_PDB = src\Sistema_Huespedes_Maria_Valeria_exe.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/hogar.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/hogar.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/hogar.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/hogar.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\hogar.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\
   TARGET_PDB = src\Sistema_Huespedes_Maria_Valeria_exe.pdb
 
-build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
+build src/CMakeFiles/Sistema_Huespedes_Maria_Valeria_exe.dir/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_exe_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_exe
   DEP_FILE = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test
   OBJECT_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   OBJECT_FILE_DIR = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir
   TARGET_COMPILE_PDB = src\CMakeFiles\Sistema_Huespedes_Maria_Valeria_exe.dir\
@@ -718,7 +718,7 @@ build src/Sistema_Huespedes_Maria_Valeria_exe.exe: CXX_EXECUTABLE_LINKER__Sistem
 # Utility command for edit_cache
 
 build src/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -729,7 +729,7 @@ build src/edit_cache: phony src/CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build src/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -747,7 +747,7 @@ build src/list_install_components: phony
 # Utility command for install
 
 build src/CMakeFiles/install.util: CUSTOM_COMMAND src/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -759,7 +759,7 @@ build src/install: phony src/CMakeFiles/install.util
 # Utility command for install/local
 
 build src/CMakeFiles/install/local.util: CUSTOM_COMMAND src/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -771,7 +771,7 @@ build src/install/local: phony src/CMakeFiles/install/local.util
 # Utility command for install/strip
 
 build src/CMakeFiles/install/strip.util: CUSTOM_COMMAND src/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\src && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -780,7 +780,7 @@ build src/install/strip: phony src/CMakeFiles/install/strip.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt
+# C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -792,10 +792,10 @@ build src/install/strip: phony src/CMakeFiles/install/strip.util
 
 build cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_test: phony || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_lib cmake_object_order_depends_target_gtest cmake_object_order_depends_target_gtest_main
 
-build test/CMakeFiles/Sistema_Huespedes_Maria_Valeria_test.dir/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_test_Debug C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_test
+build test/CMakeFiles/Sistema_Huespedes_Maria_Valeria_test.dir/main.cpp.obj: CXX_COMPILER__Sistema_Huespedes_Maria_Valeria_test_Debug C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test/main.cpp || cmake_object_order_depends_target_Sistema_Huespedes_Maria_Valeria_test
   DEP_FILE = test\CMakeFiles\Sistema_Huespedes_Maria_Valeria_test.dir\main.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
-  INCLUDES = -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
+  INCLUDES = -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src -IC:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/include -isystem C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest
   OBJECT_DIR = test\CMakeFiles\Sistema_Huespedes_Maria_Valeria_test.dir
   OBJECT_FILE_DIR = test\CMakeFiles\Sistema_Huespedes_Maria_Valeria_test.dir
   TARGET_COMPILE_PDB = test\CMakeFiles\Sistema_Huespedes_Maria_Valeria_test.dir\
@@ -813,7 +813,7 @@ build test/Sistema_Huespedes_Maria_Valeria_test.exe test/Sistema_Huespedes_Maria
   FLAGS = -g
   LINK_LIBRARIES = src/libSistema_Huespedes_Maria_Valeria_lib.a  lib/libgtest_maind.a  lib/libgtestd.a  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = test\CMakeFiles\Sistema_Huespedes_Maria_Valeria_test.dir
-  POST_BUILD = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -D TEST_TARGET=Sistema_Huespedes_Maria_Valeria_test -D TEST_EXECUTABLE=C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test/Sistema_Huespedes_Maria_Valeria_test.exe -D TEST_EXECUTOR= -D TEST_WORKING_DIR=C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test -D TEST_EXTRA_ARGS= -D TEST_PROPERTIES= -D TEST_PREFIX= -D TEST_SUFFIX= -D TEST_FILTER= -D NO_PRETTY_TYPES=FALSE -D NO_PRETTY_VALUES=FALSE -D TEST_LIST=Sistema_Huespedes_Maria_Valeria_test_TESTS -D CTEST_FILE=C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test/Sistema_Huespedes_Maria_Valeria_test[1]_tests.cmake -D TEST_DISCOVERY_TIMEOUT=5 -D TEST_XML_OUTPUT_DIR= -P "C:/Program Files/JetBrains/CLion 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GoogleTestAddTests.cmake""
+  POST_BUILD = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -D TEST_TARGET=Sistema_Huespedes_Maria_Valeria_test -D TEST_EXECUTABLE=C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test/Sistema_Huespedes_Maria_Valeria_test.exe -D TEST_EXECUTOR= -D TEST_WORKING_DIR=C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test -D TEST_EXTRA_ARGS= -D TEST_PROPERTIES= -D TEST_PREFIX= -D TEST_SUFFIX= -D TEST_FILTER= -D NO_PRETTY_TYPES=FALSE -D NO_PRETTY_VALUES=FALSE -D TEST_LIST=Sistema_Huespedes_Maria_Valeria_test_TESTS -D CTEST_FILE=C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test/Sistema_Huespedes_Maria_Valeria_test[1]_tests.cmake -D TEST_DISCOVERY_TIMEOUT=5 -D TEST_XML_OUTPUT_DIR= -P "C:/Program Files/JetBrains/CLion 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GoogleTestAddTests.cmake""
   PRE_LINK = cd .
   RESTAT = 1
   TARGET_COMPILE_PDB = test\CMakeFiles\Sistema_Huespedes_Maria_Valeria_test.dir\
@@ -826,7 +826,7 @@ build test/Sistema_Huespedes_Maria_Valeria_test.exe test/Sistema_Huespedes_Maria
 # Utility command for edit_cache
 
 build test/CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -837,7 +837,7 @@ build test/edit_cache: phony test/CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build test/CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -BC:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -855,7 +855,7 @@ build test/list_install_components: phony
 # Utility command for install
 
 build test/CMakeFiles/install.util: CUSTOM_COMMAND test/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -P cmake_install.cmake"
   DESC = Install the project...
   pool = console
   restat = 1
@@ -867,7 +867,7 @@ build test/install: phony test/CMakeFiles/install.util
 # Utility command for install/local
 
 build test/CMakeFiles/install/local.util: CUSTOM_COMMAND test/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_LOCAL_ONLY=1 -P cmake_install.cmake"
   DESC = Installing only the local directory...
   pool = console
   restat = 1
@@ -879,7 +879,7 @@ build test/install/local: phony test/CMakeFiles/install/local.util
 # Utility command for install/strip
 
 build test/CMakeFiles/install/strip.util: CUSTOM_COMMAND test/all
-  COMMAND = cmd.exe /C "cd /D C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
+  COMMAND = cmd.exe /C "cd /D C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug\test && "C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_INSTALL_DO_STRIP=1 -P cmake_install.cmake"
   DESC = Installing the project stripped...
   pool = console
   restat = 1
@@ -925,42 +925,42 @@ build libgtestd.a: phony lib/libgtestd.a
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug
+# Folder: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug
 
 build all: phony Sistema_Huespedes_Maria_Valeria.exe lib/googleTest/all src/all test/all
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest
+# Folder: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest
 
 build lib/googleTest/all: phony lib/googleTest/googlemock/all
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest/googlemock
+# Folder: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest/googlemock
 
 build lib/googleTest/googlemock/all: phony lib/libgmockd.a lib/libgmock_maind.a lib/googleTest/googletest/all
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest/googletest
+# Folder: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/lib/googleTest/googletest
 
 build lib/googleTest/googletest/all: phony lib/libgtestd.a lib/libgtest_maind.a
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/src
+# Folder: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/src
 
 build src/all: phony src/libSistema_Huespedes_Maria_Valeria_lib.a src/Sistema_Huespedes_Maria_Valeria_exe.exe
 
 # =============================================================================
 
 #############################################
-# Folder: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test
+# Folder: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug/test
 
 build test/all: phony test/Sistema_Huespedes_Maria_Valeria_test.exe
 
@@ -971,14 +971,14 @@ build test/all: phony test/Sistema_Huespedes_Maria_Valeria_test.exe
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython/Support.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GoogleTest.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock_main.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/Config.cmake.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest_main.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/internal_utils.cmake C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test/CMakeLists.txt CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython/Support.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GoogleTest.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock_main.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/Config.cmake.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest_main.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/internal_utils.cmake C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test/CMakeLists.txt CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython/Support.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GoogleTest.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock_main.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/Config.cmake.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest_main.pc.in C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/internal_utils.cmake C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/src/CMakeLists.txt C$:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/test/CMakeLists.txt CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
+build C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCCompilerABI.c C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCXXInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCommonLanguageInclude.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeCompilerIdDetection.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDependentOption.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompileFeatures.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineCompilerId.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeDetermineSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeFindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeGenericSystem.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeInitializeConfigs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeLanguageInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakePackageConfigHelpers.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeParseLibraryArchitecture.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCCompiler.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeRCInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystem.cmake.in C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInformation.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeSystemSpecificInitialize.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCXXCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestCompilerCommon.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/CMakeTestRCCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageHandleStandardArgs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPackageMessage.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/FindPython/Support.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GNUInstallDirs.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/GoogleTest.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Internal/FeatureTesting.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-Determine-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-C.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU-CXX.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-GNU.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows-windres.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/Windows.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/Platform/WindowsPaths.cmake C$:/Program$ Files/JetBrains/CLion$ 2022.3.2/bin/cmake/win/x64/share/cmake-3.24/Modules/WriteBasicConfigVersionFile.cmake C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googlemock/cmake/gmock_main.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/Config.cmake.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/gtest_main.pc.in C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/lib/googleTest/googletest/cmake/internal_utils.cmake C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/src/CMakeLists.txt C$:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/test/CMakeLists.txt CMakeCache.txt CMakeFiles/3.24.2/CMakeCCompiler.cmake CMakeFiles/3.24.2/CMakeCXXCompiler.cmake CMakeFiles/3.24.2/CMakeRCCompiler.cmake CMakeFiles/3.24.2/CMakeSystem.cmake: phony
 
 
 #############################################

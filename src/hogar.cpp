@@ -28,7 +28,7 @@ void hogar::setNumCamas(int numCamas) {
     hogar::numCamas = numCamas;
 }
 
-bool hogar::bebes()  {
+bool hogar::getBebes()  {
     return bebes;
 }
 

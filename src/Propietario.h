@@ -7,6 +7,7 @@
 
 #include <string>
 #include <iostream>
+#include "hogar.h"
 
 using std::cout;
 using std::endl;
@@ -23,21 +24,31 @@ private:
     int ID;
     bool ocupado;
     float puntajeEvaluacion;
+    hogar* pHogar;
 
 public:
     Propietario()=default;
     string getNombre();
     void setNombre(string nombre);
+
     string getSexo();
     void setSexo(string sexo);
+
     string getFechaNacimiento();
     void setFechaNacimiento(string fechaNacimiento);
     int getId();
     void setId(int id);
+
     float getPuntajeEvaluacion() ;
     void setPuntajeEvaluacion(float puntajeEvaluacion);
+
     bool getOcupado();
     void setOcupado(bool ocupado);
+
+    hogar *getPHogar();
+    void setPHogar(hogar *pHogar);
+
+    void nuevoPuntaje(int calificacion);
 
 };
 

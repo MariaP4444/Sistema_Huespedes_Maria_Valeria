@@ -43,10 +43,27 @@ void Propietario::setPuntajeEvaluacion(float puntajeEvaluacion) {
     Propietario::puntajeEvaluacion = puntajeEvaluacion;
 }
 
-bool Propietario::getOocupado() {
-    return ocupado;
+bool Propietario::getOcupado() {
+    return this->ocupado;
 }
 
 void Propietario::setOcupado(bool ocupado) {
     Propietario::ocupado = ocupado;
+}
+
+hogar *Propietario::getPHogar(){
+    return this->pHogar;
+}
+
+void Propietario::setPHogar(hogar *pHogar) {
+    Propietario::pHogar = pHogar;
+}
+
+void Propietario::nuevoPuntaje(int calificacion) {
+    if(this->puntajeEvaluacion == 0){
+        this->puntajeEvaluacion = calificacion;
+    }
+    else {
+        this->puntajeEvaluacion = ((this->puntajeEvaluacion + calificacion) / 2);
+    }
 }

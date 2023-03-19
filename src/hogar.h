@@ -25,9 +25,7 @@ public:
 
     hogar()=default;
 
-    explicit hogar(const string &direccion);
-
-    bool bebes();
+    bool getBebes();
 
     void setBebes(bool bebes);
 

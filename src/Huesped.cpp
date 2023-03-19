@@ -6,56 +6,66 @@
 
 
 string Huesped::getNombre()  {
-    return this->nombre;
+    return this->nombreH;
 }
 
 void Huesped::setNombre(string nombre) {
-    Huesped::nombre = nombre;
+    Huesped::nombreH = nombre;
 }
 
 string Huesped::getSexo() {
-    return this->sexo;
+    return this->sexoH;
 }
 
 void Huesped::setSexo(string sexo) {
-    Huesped::sexo = sexo;
+    Huesped::sexoH = sexo;
 }
 string Huesped::getFechaNacimiento() {
-    return this->fechaNacimiento;
+    return this->fechaNacimientoH;
 }
 
 void Huesped::setFechaNacimiento(string fechaNacimiento) {
-    Huesped::fechaNacimiento = fechaNacimiento;
+    Huesped::fechaNacimientoH = fechaNacimiento;
 }
 
 string Huesped::getHospital()  {
-    return this->hospital;
+    return this->hospitalH;
 }
 
 void Huesped::setHospital(string hospital) {
-    Huesped::hospital = hospital;
+    Huesped::hospitalH = hospital;
 }
 
 string Huesped::getOrigen()  {
-    return this->origen;
+    return this->origenH;
 }
 
 void Huesped::setOrigen(string origen) {
-    Huesped::origen = origen;
+    Huesped::origenH = origen;
 }
 
 int Huesped::getId() {
-    return this->ID;
+    return this->IDh;
 }
 
 void Huesped::setId(int id) {
-    ID = id;
+    Huesped::IDh = id;
 }
 
 float Huesped::getPuntajeEvaluacion(){
-    return this->puntajeEvaluacion;
+    return this->puntajeEvaluacionH;
 }
 
 void Huesped::setPuntajeEvaluacion(float puntajeEvaluacion) {
-    Huesped::puntajeEvaluacion = puntajeEvaluacion;
+    Huesped::puntajeEvaluacionH = puntajeEvaluacion;
+}
+
+
+void Huesped::nuevoPuntaje(int calificacion) {
+    if(this->puntajeEvaluacionH == 0){
+        this->puntajeEvaluacionH = calificacion;
+    }
+    else {
+        this->puntajeEvaluacionH = ((this->puntajeEvaluacionH + calificacion) / 2);
+    }
 }

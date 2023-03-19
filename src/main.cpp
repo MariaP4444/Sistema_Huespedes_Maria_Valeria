@@ -28,32 +28,16 @@ void mostrarMenu() {
         switch (opc)
         {
             case 1:
-                primeraOpcion(refugio, id);
-                id++;
+
                 break;
             case 2:
-                refugio->mostrarPerros();
                 break;
             case 3:
-                cout << "Ingrese la id del perro que quiere buscar: ";
-                cin >> id;
-                cout << "El perro con id " << id << endl;
-                if(refugio->idVector(id)){
-                    cout << "--Si se encontro" << endl;
-                }
-                else{
-                    cout << " No se encontro" << endl;
-                }
+
                 break;
             case 4:
-                cout << "Ingrese la edad minima de los perros que quieres listar: ";
-                cin >> edad;
-                refugio->listaPerros(edad);
                 break;
             case 5:
-                cout << "Ingrese la id del perro que quiere adoptar: ";
-                cin >> adoptar;
-                refugio->adopcion(adoptar);
                 break;
             default:
                 break;

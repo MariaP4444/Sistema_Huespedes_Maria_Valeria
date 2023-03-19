@@ -16,29 +16,38 @@ using std::getline;
 
 class Huesped {
 private:
-    string nombre;
-    string sexo;
-    string fechaNacimiento;
-    string hospital;
-    string origen;
-    int ID;
-    float puntajeEvaluacion;
+    string nombreH;
+    string sexoH;
+    string fechaNacimientoH;
+    string hospitalH;
+    string origenH;
+    int IDh;
+    float puntajeEvaluacionH;
 
 public:
     Huesped()= default;
     string getNombre();
     void setNombre(string nombre);
+
     string getSexo();
     void setSexo(string sexo);
+
     string getFechaNacimiento();
     void setFechaNacimiento(string fechaNacimiento);
+
     string getHospital();
     void setHospital(string nombre);
+
     int getId();
     void setId(int id);
+
     float getPuntajeEvaluacion() ;
     void setPuntajeEvaluacion(float puntajeEvaluacion);
 
+    void setOrigen(string origen);
+    string getOrigen();
+
+    void nuevoPuntaje(int calificacion);
 };
 
 
