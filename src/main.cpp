@@ -116,7 +116,7 @@ void mostrarMenu() {
                 primeraOpcion(huespedes, propietarios, id);
                 break;
             case 2:
-                segundaOpcion(huespedes, propietarios, id);
+                segundaOpcion(huespedes, propietarios);
                 refugio->mostrarPerros();
                 break;
             case 3:
