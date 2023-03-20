@@ -27,6 +27,7 @@ private:
 public:
     Huesped()= default;
     Huesped(string nombreH, string sexoH, string fechaNacimientoH, string hospitalH, string origenH, int IDh, float puntajeEvaluacionH);
+
     string getNombre();
     void setNombre(string nombre);
 

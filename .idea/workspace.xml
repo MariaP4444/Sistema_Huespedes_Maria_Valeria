@@ -28,10 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ca6010c-8b4a-483a-9785-5b9d684ab847" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Sistema.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sistema.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
@@ -42,9 +39,11 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Propietario.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Propietario.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Huesped.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Huesped.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reserva.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reserva.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reserva.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reserva.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sistema.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sistema.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,29 +71,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Git/POO/4-contenedoresagrupacion-paula-valeria",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="CMake Application.Sistema_Huespedes_Maria_Valeria_exe">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sistema_Huespedes_Maria_Valeria" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Sistema_Huespedes_Maria_Valeria" TARGET_NAME="Sistema_Huespedes_Maria_Valeria" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Sistema_Huespedes_Maria_Valeria" RUN_TARGET_NAME="Sistema_Huespedes_Maria_Valeria">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -162,6 +156,9 @@
       <workItem from="1679257277912" duration="2282000" />
       <workItem from="1679264107587" duration="1620000" />
       <workItem from="1679267636626" duration="6935000" />
+      <workItem from="1679281733219" duration="536000" />
+      <workItem from="1679284030247" duration="9576000" />
+      <workItem from="1679316708165" duration="14012000" />
     </task>
     <servers />
   </component>

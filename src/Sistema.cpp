@@ -92,3 +92,89 @@ void Sistema::datosPropietario() {
     registrarPropietario(idTemp,nombreTemp, sexoTemp, nacimientoTemp,pHogarP);
 }
 
+int Sistema::existeIDhuesped(int id){
+    unordered_map<int, Huesped*>::iterator itMapH;
+
+    for (itMapH =this->huespedes.begin(); itMapH != this->huespedes.end(); ++itMapH){
+        if(id == itMapH->first){
+            return 1;
+        }
+    }
+    return 0;
+}
+
+int Sistema::existeIDpropietario(int id){
+    unordered_map<int, Propietario*>::iterator itMapP;
+
+    for (itMapP =this->propietarios.begin(); itMapP != this->propietarios.end(); ++itMapP){
+        if(id == itMapP->first){
+            return 2;
+        }
+    }
+    return 0;
+}
+
+bool Sistema::existeIDreserva(int id){
+    vector<Reserva*>::iterator itVectorRe;
+
+    for (itVectorRe = this->reservas.begin(); itVectorRe != this->reservas.end(); ++itVectorRe){
+        Reserva* reservaTemp = *itVectorRe;
+        if(id == reservaTemp->getIDhuesped()){
+            return true;
+        }
+    }
+    return false;
+}
+
+void Sistema::crearReserva(int idH){
+    string fInicio, fFin;
+    int idP;
+    Propietario* Tpropietario;
+
+    cout<< "Ingrese fecha inicio de la estadia" << endl;
+    cin >> fInicio;
+
+    cout<< "Ingrese fecha fin de la estadia" << endl;
+    cin >> fFin;
+
+    cout<< "Ingrese ID del propietario" << endl;
+    cin >> idP;
+
+    //Advertencia: se asume que idP esta en el mapa propietarios (ya registrado)
+    Tpropietario = this->devolverPunteroP(idP);
+
+    if(Tpropietario->getOcupado() == true){
+        cout<< "Este usuario no tiene cupo par hospedar" << endl;
+    }
+    else{
+        Reserva* pReserva = new Reserva(fInicio, fFin, idP, idH);
+
+        this->reservas.push_back(pReserva);
+
+        Tpropietario->setOcupado(true);
+    }
+
+}
+
+/*
+Huesped* Sistema::devolverPunteroH(int id){
+    unordered_map<int, Huesped*>::iterator itMapH;
+
+    for (itMapH = this->huespedes.begin(); itMapH != this->huespedes.end(); ++itMapH){
+        Huesped* huespedTemp = itMapH->second;
+        if(id == itMapH->first){
+            return huespedTemp;
+        }
+    }
+}
+*/
+Propietario* Sistema::devolverPunteroP(int id){
+    unordered_map<int, Propietario*>::iterator itMapH;
+
+    for (itMapH = this->propietarios.begin(); itMapH != this->propietarios.end(); ++itMapH){
+        Propietario* propietarioTemp = itMapH->second;
+        if(id == itMapH->first){
+            return propietarioTemp;
+        }
+    }
+}

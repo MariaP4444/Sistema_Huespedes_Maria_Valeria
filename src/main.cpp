@@ -5,7 +5,53 @@
 #include <iostream>
 
 #include "Sistema.h"
+#include "Reserva.h"
+
 using namespace std;
+
+void primeraOpcion(int id, Sistema* pSistema){
+    Reserva* pReserva;
+    bool hospedado = false;
+    int esHuesped = 0;
+    int esPropietario = 0;
+    // 1-Huesped
+    // 2-Propietario
+
+    esHuesped = pSistema->existeIDhuesped(id);
+    esPropietario = pSistema->existeIDpropietario(id);
+
+    if(esHuesped == 1 && esPropietario == 0){
+        //algo anda mal
+        hospedado = pSistema->existeIDreserva(id);
+
+        if(hospedado == true){
+            int op;
+            cout<< "1.Evaluar" << endl;
+            cout<< "0.Salir" << endl;
+
+            cin >> op;
+            if(op == 1){
+
+            }
+        }
+        else{
+            cout<< "Crea tu reserva" << endl;
+            pSistema->crearReserva(id);
+        }
+    }
+    else{
+        int op;
+        cout<< "1.Terminar estadia" << endl;
+        cout<< "2.Evaluar" << endl;
+        cout<< "0.Salir" << endl;
+
+        cin >> op;
+        if(op == 1){
+
+        }
+
+    }
+}
 
 void segundaOpcion(Sistema* pSistema){
     int op;
@@ -42,7 +88,9 @@ void mostrarMenu(Sistema* pSistema) {
         switch (opc)
         {
             case 1:
-
+                cout <<"Ingrese id\n" << endl;
+                cin >> id;
+                primeraOpcion(id, pSistema);
                 break;
             case 2:
                 segundaOpcion(pSistema);

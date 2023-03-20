@@ -5,8 +5,9 @@
 #include "Reserva.h"
 #include "Propietario.h"
 #include "Huesped.h"
-
 #include "Reserva.h"
+
+Reserva::Reserva(string fechaIn, string fechaFin, int idPropietario, int idHuesped): fechaIn(fechaIn), fechaFin(fechaFin), idPropietario(idPropietario), idHuesped(idHuesped){}
 
 string Reserva::getFechaIn(){
     return fechaIn;
@@ -24,18 +25,36 @@ void Reserva::setFechaFin(string fechaFin) {
     Reserva::fechaFin = fechaFin;
 }
 
-void Reserva::setPpropietario(Propietario* pPropietario){
-    this->pPropietario = pPropietario;
+void Reserva::setIDpropietario(int idPropietario){
+    this->idPropietario = idPropietario;
 }
 
-Propietario *Reserva::getPpropietario(){
-    return this->pPropietario;
+int Reserva::getIDpropietario(){
+    return this->idPropietario;
 }
 
-void Reserva::setPhuesped(Huesped* pHuesped){
-    this->pHuesped = pHuesped;
+void Reserva::setIDhuesped(int idHuesped){
+    this->idHuesped = idHuesped;
 }
 
-Huesped *Reserva::getPhuesped(){
-    return this->pHuesped;
+int Reserva::getIDhuesped(){
+    return this->idHuesped;
 }
+
+Reserva* Reserva::crearReserva(int idH){
+    string fInicio, fFin;
+    Reserva* pReserva = new Reserva();
+
+    cout<< "Ingrese fecha inicio de la estadia" << endl;
+    cin >> pReserva->fechaIn;
+
+    cout<< "Ingrese fecha fin de la estadia" << endl;
+    cin >> pReserva->fechaFin;
+
+    cout<< "Ingrese ID del propietario" << endl;
+    cin >> this->idPropietario;
+
+    return pReserva;
+
+}
+

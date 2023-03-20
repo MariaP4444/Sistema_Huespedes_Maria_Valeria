@@ -13,12 +13,14 @@
 #include "Huesped.h"
 #include "Reserva.h"
 
+
 using namespace std;
 
 class Sistema {
 private:
     unordered_map <int, Huesped*> huespedes;
     unordered_map <int, Propietario*> propietarios;
+    vector <Reserva*> reservas;
 public:
     Sistema() = default;
     void mostrarHuesped();
@@ -27,6 +29,13 @@ public:
     void datosHuesped();
     void registrarPropietario(int id, string nombre, string sexo, string nacimiento, hogar *pHogar);
     void datosPropietario();
+    int existeIDhuesped(int id);
+    int existeIDpropietario(int id);
+    bool existeIDreserva(int id);
+    void crearReserva(int id);
+    //Huesped* devolverPunteroH(int id);
+    Propietario* devolverPunteroP(int id);
+
 };
 
 

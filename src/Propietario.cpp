@@ -73,3 +73,5 @@ void Propietario::nuevoPuntaje(int calificacion) {
 void Propietario::agregarCasa(string direccion, string desc, int numCamas, bool bebes) {
     this->pHogar = new hogar(direccion, desc, numCamas, bebes);
 }
+
+

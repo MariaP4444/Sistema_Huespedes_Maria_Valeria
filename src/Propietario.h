@@ -37,6 +37,7 @@ public:
 
     string getFechaNacimiento();
     void setFechaNacimiento(string fechaNacimiento);
+
     int getId();
     void setId(int id);
 

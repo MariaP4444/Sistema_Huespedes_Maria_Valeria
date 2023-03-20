@@ -10,6 +10,7 @@
 #include "Propietario.h"
 #include "Huesped.h"
 
+
 using std::cout;
 using std::endl;
 using std::cin;
@@ -20,22 +21,26 @@ class Reserva {
 private:
     string fechaIn;
     string fechaFin;
-    Propietario* pPropietario;
-    Huesped* pHuesped;
+    int idPropietario;
+    int idHuesped;
 
 public:
     Reserva()= default;
+    Reserva(string fechaIn, string fechaFin, int idPropietario, int idHuesped);
+
     string getFechaIn();
     void setFechaIn(string fechaIn);
 
     string getFechaFin();
     void setFechaFin(string fechaFin);
 
-    Propietario* getPpropietario();
-    void setPpropietario(Propietario* pPropietario);
+    int getIDpropietario();
+    void setIDpropietario(int idPropietario);
 
-    Huesped* getPhuesped();
-    void setPhuesped(Huesped* pHuesped);
+    int getIDhuesped();
+    void setIDhuesped(int idHuesped);
+
+    Reserva* crearReserva(int idH);
 
 
 };
