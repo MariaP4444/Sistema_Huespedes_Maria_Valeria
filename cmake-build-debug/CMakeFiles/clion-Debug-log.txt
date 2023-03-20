@@ -1,4 +1,4 @@
-"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria -B C:\Users\PC\Desktop\2023-1\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug
+"C:\Program Files\JetBrains\CLion 2022.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria -B C:\Users\Lenovo\Desktop\Git\POO\Sistema_Huespedes_Maria_Valeria\cmake-build-debug
 -- The C compiler identification is GNU 11.2.0
 -- The CXX compiler identification is GNU 11.2.0
 -- Detecting C compiler ABI info
@@ -11,7 +11,7 @@
 -- Check for working CXX compiler: C:/Program Files/JetBrains/CLion 2022.3.2/bin/mingw/bin/g++.exe - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Found Python: C:/Users/PC/AppData/Local/Programs/Python/Python310/python.exe (found version "3.10.2") found components: Interpreter 
+-- Found Python: C:/Users/Lenovo/AppData/Local/Programs/Python/Python310/python.exe (found version "3.10.2") found components: Interpreter 
 -- Configuring done
 -- Generating done
--- Build files have been written to: C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug
+-- Build files have been written to: C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria/cmake-build-debug

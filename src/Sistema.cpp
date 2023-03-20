@@ -156,7 +156,7 @@ void Sistema::crearReserva(int idH){
 
 }
 
-/*
+
 Huesped* Sistema::devolverPunteroH(int id){
     unordered_map<int, Huesped*>::iterator itMapH;
 
@@ -167,7 +167,7 @@ Huesped* Sistema::devolverPunteroH(int id){
         }
     }
 }
-*/
+
 Propietario* Sistema::devolverPunteroP(int id){
     unordered_map<int, Propietario*>::iterator itMapH;
 
@@ -176,5 +176,28 @@ Propietario* Sistema::devolverPunteroP(int id){
         if(id == itMapH->first){
             return propietarioTemp;
         }
+    }
+}
+
+
+void Sistema::mostrarReservas() {
+    vector<Reserva*>::iterator itVector;
+    Propietario* propietarioTemp;
+    Huesped* huespedTemp;
+
+    cout << "Las reservas actuales son:\n";
+    for (itVector = this->reservas.begin(); itVector != this->reservas.end(); ++itVector){
+        cout << "-----------------------------------------------------------------------------\n";
+        cout << "Info del propietario:\n";
+        propietarioTemp = devolverPunteroP((*itVector)->getIDpropietario());
+        cout <<"  -Nombre: "<<propietarioTemp->getNombre()<< endl;
+        cout <<"  -ID:"<<propietarioTemp->getId()<< endl;
+        cout << "Info del Huesped:\n";
+        huespedTemp = devolverPunteroH((*itVector)->getIDhuesped());
+        cout <<"  -Nombre: "<<huespedTemp->getNombre()<< endl;
+        cout <<"  -ID:"<<huespedTemp->getId()<< endl;
+        cout << "Info de las fechas de la reserva:\n";
+        cout <<"  -Fecha de inicio: "<<(*itVector)->getFechaIn()<< endl;
+        cout <<"  -Fecha de fin:"<<(*itVector)->getFechaFin()<< endl;
     }
 }

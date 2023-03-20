@@ -5,12 +5,11 @@
 #include <iostream>
 
 #include "Sistema.h"
-#include "Reserva.h"
 
 using namespace std;
 
 void primeraOpcion(int id, Sistema* pSistema){
-    Reserva* pReserva;
+
     bool hospedado = false;
     int esHuesped = 0;
     int esPropietario = 0;
@@ -101,8 +100,7 @@ void mostrarMenu(Sistema* pSistema) {
                 pSistema->mostrarHuesped();
                 break;
             case 4:
-
-
+                pSistema->mostrarReservas();
                 break;
             case 5:
 
