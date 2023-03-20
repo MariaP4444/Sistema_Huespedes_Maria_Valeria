@@ -13,6 +13,9 @@ void primeraOpcion(int id, Sistema* pSistema){
     bool hospedado = false;
     int esHuesped = 0;
     int esPropietario = 0;
+    Propietario *pPropetarioTemp;
+    int op1, op2;
+
     // 1-Huesped
     // 2-Propietario
 
@@ -39,14 +42,31 @@ void primeraOpcion(int id, Sistema* pSistema){
         }
     }
     else{
-        int op;
-        cout<< "1.Terminar estadia" << endl;
-        cout<< "2.Evaluar" << endl;
-        cout<< "0.Salir" << endl;
 
-        cin >> op;
-        if(op == 1){
+        pPropetarioTemp = pSistema->devolverPunteroP(id);
 
+        if(pPropetarioTemp->getReservaActual() == NULL){
+            cout<< "1.Evaluar" << endl;
+            cout<< "0.Salir" << endl;
+            cin >> op1;
+
+        }
+        else{
+            cout<< "1.Evaluar" << endl;
+            cout<< "2.Acabar reserva actual" << endl;
+            cout<< "0.Salir" << endl;
+            cin >> op1;
+            if(op1 == 2){
+                cout<< "Esta es tu actual reserva:" << endl;
+                pSistema->mostrarInfoReserva(pPropetarioTemp->getReservaActual());
+                cout<< "Si deseas terminarla presiona 1, si deseas devolverte presiona 0" << endl;
+                cin>> op2;
+                if(op2==1){
+                    pPropetarioTemp->setReservaActual(NULL);
+                    pPropetarioTemp->setOcupado(false);
+                }
+
+            }
         }
 
     }

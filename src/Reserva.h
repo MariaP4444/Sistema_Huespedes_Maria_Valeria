@@ -7,8 +7,6 @@
 
 #include <string>
 #include <iostream>
-#include "Propietario.h"
-#include "Huesped.h"
 
 
 using std::cout;
@@ -41,7 +39,6 @@ public:
     void setIDhuesped(int idHuesped);
 
     Reserva* crearReserva(int idH);
-
 
 };
 

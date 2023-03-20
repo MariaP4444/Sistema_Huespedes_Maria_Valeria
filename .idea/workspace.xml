@@ -29,16 +29,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2ca6010c-8b4a-483a-9785-5b9d684ab847" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Propietario.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Propietario.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reserva.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reserva.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reserva.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reserva.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sistema.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sistema.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
@@ -161,7 +156,7 @@
       <workItem from="1679281733219" duration="536000" />
       <workItem from="1679284030247" duration="9576000" />
       <workItem from="1679316708165" duration="14012000" />
-      <workItem from="1679339065592" duration="5105000" />
+      <workItem from="1679339065592" duration="12894000" />
     </task>
     <servers />
   </component>

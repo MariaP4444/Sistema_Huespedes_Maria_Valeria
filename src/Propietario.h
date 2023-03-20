@@ -8,6 +8,7 @@
 #include <string>
 #include <iostream>
 #include "hogar.h"
+#include "Reserva.h"
 
 using std::cout;
 using std::endl;
@@ -25,6 +26,7 @@ private:
     bool ocupado;
     float puntajeEvaluacion;
     hogar* pHogar;
+    Reserva* reservaActual;
 
 public:
     Propietario()=default;
@@ -53,6 +55,9 @@ public:
     void nuevoPuntaje(int calificacion);
 
     void agregarCasa(string direccion, string desc, int numCamas, bool bebes);
+
+    Reserva *getReservaActual();
+    void setReservaActual(Reserva *reservaActual);
 
 };
 

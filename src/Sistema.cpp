@@ -150,8 +150,8 @@ void Sistema::crearReserva(int idH){
         Reserva* pReserva = new Reserva(fInicio, fFin, idP, idH);
 
         this->reservas.push_back(pReserva);
-
         Tpropietario->setOcupado(true);
+        Tpropietario->setReservaActual(pReserva);
     }
 
 }
@@ -179,6 +179,23 @@ Propietario* Sistema::devolverPunteroP(int id){
     }
 }
 
+void Sistema::mostrarInfoReserva(Reserva* pReserva) {
+    Propietario* propietarioTemp;
+    Huesped* huespedTemp;
+    cout << "-----------------------------------------------------------------------------\n";
+    cout << "Info del propietario:\n";
+    propietarioTemp = devolverPunteroP(pReserva->getIDpropietario());
+    cout <<"  -Nombre: "<<propietarioTemp->getNombre() << endl;
+    cout <<"  -ID:"<<propietarioTemp->getId()<< endl;
+    cout << "Info del Huesped:\n";
+    huespedTemp = devolverPunteroH(pReserva->getIDhuesped());
+    cout <<"  -Nombre: "<<huespedTemp->getNombre()<< endl;
+    cout <<"  -ID:"<<huespedTemp->getId()<< endl;
+    cout << "Info de las fechas de la reserva:\n";
+    cout <<"  -Fecha de inicio: "<<pReserva->getFechaIn()<< endl;
+    cout <<"  -Fecha de fin:"<<pReserva->getFechaFin()<< endl;
+}
+
 
 void Sistema::mostrarReservas() {
     vector<Reserva*>::iterator itVector;
@@ -187,17 +204,18 @@ void Sistema::mostrarReservas() {
 
     cout << "Las reservas actuales son:\n";
     for (itVector = this->reservas.begin(); itVector != this->reservas.end(); ++itVector){
-        cout << "-----------------------------------------------------------------------------\n";
-        cout << "Info del propietario:\n";
-        propietarioTemp = devolverPunteroP((*itVector)->getIDpropietario());
-        cout <<"  -Nombre: "<<propietarioTemp->getNombre()<< endl;
-        cout <<"  -ID:"<<propietarioTemp->getId()<< endl;
-        cout << "Info del Huesped:\n";
-        huespedTemp = devolverPunteroH((*itVector)->getIDhuesped());
-        cout <<"  -Nombre: "<<huespedTemp->getNombre()<< endl;
-        cout <<"  -ID:"<<huespedTemp->getId()<< endl;
-        cout << "Info de las fechas de la reserva:\n";
-        cout <<"  -Fecha de inicio: "<<(*itVector)->getFechaIn()<< endl;
-        cout <<"  -Fecha de fin:"<<(*itVector)->getFechaFin()<< endl;
+        mostrarInfoReserva((*itVector));
+    }
+}
+
+void Sistema::eliminarReservaV(Reserva* reservaEliminar){
+    vector<Reserva*>::iterator itVector;
+    itVector = find(this->reservas.begin(),this->reservas.end(),reservaEliminar);
+
+    if(itVector != this->reservas.end()){
+        this->reservas.erase(itVector);
+    }
+    else{
+        cout << "No se pudo\n";
     }
 }

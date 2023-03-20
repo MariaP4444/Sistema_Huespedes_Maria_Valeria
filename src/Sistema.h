@@ -38,6 +38,9 @@ public:
     Huesped* devolverPunteroH(int id);
     Propietario* devolverPunteroP(int id);
     void mostrarReservas();
+    void mostrarInfoReserva(Reserva* pReserva);
+    void eliminarReservaV(Reserva* reservaEliminar);
+
 
 };
 
