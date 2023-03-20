@@ -11,4 +11,4 @@ add_subdirectory(test)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Sistema_Huespedes_Maria_Valeria main.cpp src/Propietario.cpp src/Propietario.h src/Huesped.cpp src/Huesped.h src/hogar.cpp src/hogar.h src/Reserva.cpp src/Reserva.h src/Evaluacion.cpp src/Evaluacion.h src/main.cpp test/main.cpp)
+add_executable(Sistema_Huespedes_Maria_Valeria main.cpp src/Propietario.cpp src/Propietario.h src/Huesped.cpp src/Huesped.h src/hogar.cpp src/hogar.h src/Reserva.cpp src/Reserva.h src/Evaluacion.cpp src/Evaluacion.h src/main.cpp test/main.cpp src/Sistema.cpp src/Sistema.h)

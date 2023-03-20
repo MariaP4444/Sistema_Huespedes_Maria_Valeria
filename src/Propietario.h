@@ -28,7 +28,7 @@ private:
 
 public:
     Propietario()=default;
-    Propietario(string nombreH, string sexoH, string fechaNacimientoH, int IDh, bool ocupado, float puntajeEvaluacionH, hogar* pHogar);
+    Propietario(string nombre, string sexo, string fechaNacimiento, int ID, bool ocupado, float puntajeEvaluacion, hogar* pHogar);
     string getNombre();
     void setNombre(string nombre);
 

@@ -4,7 +4,7 @@
 
 #include "Propietario.h"
 
-Propietario::Propietario(string nombre, string sexo, string fechaNacimiento, int ID, bool ocupado float puntajeEvaluacion):nombre(nombre), sexo(sexo), fechaNacimiento(fechaNacimiento), ID(ID), ocupado(ocupado), puntajeEvaluacion(puntajeEvaluacion){}
+Propietario::Propietario(string nombre, string sexo, string fechaNacimiento, int ID, bool ocupado, float puntajeEvaluacion,hogar* pHogar):nombre(nombre), sexo(sexo), fechaNacimiento(fechaNacimiento), ID(ID), ocupado(ocupado), puntajeEvaluacion(puntajeEvaluacion), pHogar(pHogar){}
 
 string Propietario::getNombre()  {
     return this->nombre;
@@ -71,5 +71,5 @@ void Propietario::nuevoPuntaje(int calificacion) {
 }
 
 void Propietario::agregarCasa(string direccion, string desc, int numCamas, bool bebes) {
-    this->pHogar = new(direccion, desc, numCamas, bebes);
+    this->pHogar = new hogar(direccion, desc, numCamas, bebes);
 }
