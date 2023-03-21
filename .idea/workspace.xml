@@ -29,13 +29,17 @@
   <component name="ChangeListManager">
     <list default="true" id="2ca6010c-8b4a-483a-9785-5b9d684ab847" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.24.2/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Propietario.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Propietario.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Propietario.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reserva.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reserva.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reserva.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reserva.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Sistema.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sistema.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sistema.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +75,7 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "C:/Users/Lenovo/Desktop/Git/POO/Sistema_Huespedes_Maria_Valeria",
+    "last_opened_file_path": "C:/Users/PC/Desktop/2023-1/POO/Sistema_Huespedes_Maria_Valeria",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,11 +85,6 @@
   }
 }]]></component>
   <component name="RunManager" selected="CMake Application.Sistema_Huespedes_Maria_Valeria_exe">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Sistema_Huespedes_Maria_Valeria" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Sistema_Huespedes_Maria_Valeria" TARGET_NAME="Sistema_Huespedes_Maria_Valeria" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Sistema_Huespedes_Maria_Valeria" RUN_TARGET_NAME="Sistema_Huespedes_Maria_Valeria">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -102,6 +101,11 @@
       </method>
     </configuration>
     <configuration name="Sistema_Huespedes_Maria_Valeria_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Sistema_Huespedes_Maria_Valeria" TARGET_NAME="Sistema_Huespedes_Maria_Valeria_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Sistema_Huespedes_Maria_Valeria" RUN_TARGET_NAME="Sistema_Huespedes_Maria_Valeria_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -157,6 +161,7 @@
       <workItem from="1679284030247" duration="9576000" />
       <workItem from="1679316708165" duration="14012000" />
       <workItem from="1679339065592" duration="12894000" />
+      <workItem from="1679355245560" duration="1135000" />
     </task>
     <servers />
   </component>

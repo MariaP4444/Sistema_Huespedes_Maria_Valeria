@@ -62,7 +62,8 @@ void Propietario::setPHogar(hogar *pHogar) {
 }
 
 void Propietario::nuevoPuntaje(int calificacion) {
-    if(this->puntajeEvaluacion == 0){
+    int a = getPuntajeEvaluacion();
+    if(a == 0){
         this->puntajeEvaluacion = calificacion;
     }
     else {

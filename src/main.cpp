@@ -23,7 +23,7 @@ void primeraOpcion(int id, Sistema* pSistema){
     esPropietario = pSistema->existeIDpropietario(id);
 
     if(esHuesped == 1 && esPropietario == 0){
-        //algo anda mal
+
         hospedado = pSistema->existeIDreserva(id);
 
         if(hospedado == true){
@@ -33,7 +33,7 @@ void primeraOpcion(int id, Sistema* pSistema){
 
             cin >> op;
             if(op == 1){
-
+                pSistema->evaluacion(id, 2);
             }
         }
         else{
@@ -49,6 +49,9 @@ void primeraOpcion(int id, Sistema* pSistema){
             cout<< "1.Evaluar" << endl;
             cout<< "0.Salir" << endl;
             cin >> op1;
+            if(op1 == 1){
+                pSistema->evaluacion(id, 2);
+            }
 
         }
         else{
@@ -62,10 +65,15 @@ void primeraOpcion(int id, Sistema* pSistema){
                 cout<< "Si deseas terminarla presiona 1, si deseas devolverte presiona 0" << endl;
                 cin>> op2;
                 if(op2==1){
-                    pPropetarioTemp->setReservaActual(NULL);
+                    pSistema->eliminarReservaV(pPropetarioTemp->getReservaActual());
                     pPropetarioTemp->setOcupado(false);
+                    pPropetarioTemp->setReservaActual(NULL);
+
                 }
 
+            }
+            else if(op1 == 1){
+                pSistema->evaluacion(id, 1);
             }
         }
 
@@ -123,7 +131,7 @@ void mostrarMenu(Sistema* pSistema) {
                 pSistema->mostrarReservas();
                 break;
             case 5:
-
+                pSistema->mostrarReservas();
                 break;
             default:
                 break;

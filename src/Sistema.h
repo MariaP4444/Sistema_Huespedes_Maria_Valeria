@@ -40,6 +40,11 @@ public:
     void mostrarReservas();
     void mostrarInfoReserva(Reserva* pReserva);
     void eliminarReservaV(Reserva* reservaEliminar);
+    void evaluacion(int id, int persona);
+    int recogerIDh(int idP);
+    int recogerIDp(int idH);
+    void mostrarInfoEval(Evaluacion* pEvaluacion);
+    void mostrarEvaluaciones(int id1, int id2);
 
 
 };

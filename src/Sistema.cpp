@@ -3,6 +3,7 @@
 //
 
 #include "Sistema.h"
+#include <algorithm>
 
 void Sistema::mostrarHuesped() {
     unordered_map<int, Huesped*>::iterator itMapH;
@@ -208,6 +209,51 @@ void Sistema::mostrarReservas() {
     }
 }
 
+
+void Sistema::mostrarInfoEval(Evaluacion* pEvaluacion) {
+    Propietario* propietarioTemp;
+    Huesped* huespedTemp;
+    propietarioTemp =  devolverPunteroP(huespedTemp->getId());
+    huespedTemp = devolverPunteroH(huespedTemp->getId());
+
+    Evaluacion* tEval;
+    int id1= tEval->getPersonaDirigida();
+    int id2= tEval->getPersonaEvaluacion();
+
+
+    cout << "-----------------------------------------------------------------------------\n";
+    cout << "Info de la evaluacion:\n";
+
+    cout <<"  -Fecha evaluacion: "<<pEvaluacion->getFechaEvaluacion() << endl;
+    cout <<"  -Comentario:"<<pEvaluacion->getComentario()<< endl;
+    cout <<"  -nombre persona dirigida: "<<propietarioTemp->getNombre()<< endl;
+    cout <<"  -nombre persona que evalua "<<huespedTemp->getNombre()<< endl
+
+    cout <<"  -ID persona que evalua "<< id2 << endl;
+    cout <<"  -ID persona evaluada "<< id1 << endl;
+
+}
+
+void Sistema::mostrarEvaluaciones(int id1, int id2) {
+    vector<Evaluacion*>::iterator itVector;
+
+    Evaluacion* tEval;
+    int id1;
+    int id2;
+
+    cout << "Las reservas actuales son:\n";
+    for (itVector = this->evaluaciones.begin(); itVector != this->evaluaciones.end(); ++itVector){
+        id1= (*itVector)->getPersonaEvaluacion();
+        id2= (*itVector)->getPersonaDirigida();
+        if(existeIDhuesped(id1) == 1){
+            mostrarInfoEval((*itVector), id1);
+        }
+        else{
+            mostrarInfoEval((*itVector), id2);
+        }
+    }
+}
+
 void Sistema::eliminarReservaV(Reserva* reservaEliminar){
     vector<Reserva*>::iterator itVector;
     itVector = find(this->reservas.begin(),this->reservas.end(),reservaEliminar);
@@ -218,4 +264,35 @@ void Sistema::eliminarReservaV(Reserva* reservaEliminar){
     else{
         cout << "No se pudo\n";
     }
+}
+
+
+void Sistema::evaluacion(int id, int persona){
+    //persona(1) = propietario
+    //persona(2) = huesped
+
+    int calificacion, idPer2;
+    string fecha, comentario;
+
+    cout << "Ingrese la fecha de terminacion " << endl;
+    cin >> fecha;
+    cout << "Ingrese la calificacion del huesped " << endl;
+    cin >> calificacion;
+    cout << "Ingrese el id de la otra persona asociada " << endl;
+    cin >> idPer2;
+    cout << "Ingrese el comentario del huesped" << endl;
+    cin.ignore();
+    getline(cin, comentario, '\n');
+
+    if(persona == 1){
+        Huesped* Thuesped = this->devolverPunteroH(id);
+        Thuesped->nuevoPuntaje(calificacion);
+    }
+    else{
+        Propietario* Tpropietario = this->devolverPunteroP(id);
+        Tpropietario->nuevoPuntaje(calificacion);
+    }
+
+    Evaluacion* evaluacionTemp = new Evaluacion(fecha, comentario, idPer2, id, calificacion);
+    this->evaluaciones.push_back(evaluacionTemp);
 }
